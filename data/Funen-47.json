@@ -1,0 +1,9 @@
+{
+  "contest": 80,
+  "handle": "Funen",
+  "address": "0x1b4Cad2Cb2AD1B4dF797AaCf046576A8d75AcD45",
+  "risk": "1",
+  "title": "check input address on constructor is not got zero address",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2022-01-yield-findings/issues/47"
+}
