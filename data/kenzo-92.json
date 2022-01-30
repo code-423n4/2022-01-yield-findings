@@ -1,0 +1,9 @@
+{
+  "contest": 80,
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "0",
+  "title": "Cvx3CrvOracle missing natspec param baseAmount for peek, _peek, _get",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2022-01-yield-findings/issues/92"
+}
