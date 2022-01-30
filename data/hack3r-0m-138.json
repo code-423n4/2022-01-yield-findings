@@ -1,0 +1,9 @@
+{
+  "contest": 80,
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "3",
+  "title": "Chainlink oracles might return stale data",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2022-01-yield-findings/issues/138"
+}
