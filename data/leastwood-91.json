@@ -1,0 +1,9 @@
+{
+  "contest": 80,
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "1",
+  "title": "`setSource` Does Not Validate That The Chainlink Price Feeds Are `18` Decimals",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2022-01-yield-findings/issues/91"
+}
