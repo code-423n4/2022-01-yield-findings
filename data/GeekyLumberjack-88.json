@@ -1,0 +1,9 @@
+{
+  "contest": 80,
+  "handle": "GeekyLumberjack",
+  "address": "0xC63E80f0094aE02CD5C12d121336b41420a27dd2",
+  "risk": "2",
+  "title": "Only passing in one depositedBalance in _checkpointAndClaim()",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2022-01-yield-findings/issues/88"
+}
