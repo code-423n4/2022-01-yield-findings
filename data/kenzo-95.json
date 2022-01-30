@@ -1,0 +1,9 @@
+{
+  "contest": 80,
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "1",
+  "title": "Cvx3CrvOracle earned function calculates cvx wrongly if pool claimed indirectly",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2022-01-yield-findings/issues/95"
+}
