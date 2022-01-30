@@ -1,0 +1,9 @@
+{
+  "contest": 80,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "G",
+  "title": "Use immutable variables if values don't change after the constructor",
+  "issueId": 120,
+  "issueUrl": "https://github.com/code-423n4/2022-01-yield-findings/issues/120"
+}
