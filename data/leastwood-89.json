@@ -1,0 +1,9 @@
+{
+  "contest": 80,
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "3",
+  "title": "Malicious Users Can Transfer Vault Collateral To Other Accounts To Extract Additional Yield From The Protocol",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2022-01-yield-findings/issues/89"
+}
