@@ -1,3 +1,11 @@
+---
+sponsor: "Yield"
+slug: "2022-01-yield"
+date: "2022-03-04"
+title: "Yield-Convex contest"
+findings: "https://github.com/code-423n4/2022-01-yield-findings/issues"
+contest: 80
+---
 
 # Overview
 
